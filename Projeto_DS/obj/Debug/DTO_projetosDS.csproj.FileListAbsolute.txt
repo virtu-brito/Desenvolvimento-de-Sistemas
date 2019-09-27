@@ -1,0 +1,2 @@
+C:\Users\ADM\Downloads\Projeto_DS\Projeto_DS\obj\Debug\DTO_ProjetoDS.Resources.resources
+C:\Users\ADM\Downloads\Projeto_DS\Projeto_DS\obj\Debug\DTO_projetosDS.csproj.GenerateResource.Cache
